@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GeekBrains\Git\C#\Exemple08\bin\Debug\net6.0\Exemple08.exe
+C:\Users\User\Documents\GeekBrains\Git\C#\Exemple08\bin\Debug\net6.0\Exemple08.deps.json
+C:\Users\User\Documents\GeekBrains\Git\C#\Exemple08\bin\Debug\net6.0\Exemple08.runtimeconfig.json
+C:\Users\User\Documents\GeekBrains\Git\C#\Exemple08\bin\Debug\net6.0\Exemple08.dll
+C:\Users\User\Documents\GeekBrains\Git\C#\Exemple08\bin\Debug\net6.0\Exemple08.pdb
+C:\Users\User\Documents\GeekBrains\Git\C#\Exemple08\obj\Debug\net6.0\Exemple08.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GeekBrains\Git\C#\Exemple08\obj\Debug\net6.0\Exemple08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GeekBrains\Git\C#\Exemple08\obj\Debug\net6.0\Exemple08.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GeekBrains\Git\C#\Exemple08\obj\Debug\net6.0\Exemple08.AssemblyInfo.cs
+C:\Users\User\Documents\GeekBrains\Git\C#\Exemple08\obj\Debug\net6.0\Exemple08.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GeekBrains\Git\C#\Exemple08\obj\Debug\net6.0\Exemple08.dll
+C:\Users\User\Documents\GeekBrains\Git\C#\Exemple08\obj\Debug\net6.0\refint\Exemple08.dll
+C:\Users\User\Documents\GeekBrains\Git\C#\Exemple08\obj\Debug\net6.0\Exemple08.pdb
+C:\Users\User\Documents\GeekBrains\Git\C#\Exemple08\obj\Debug\net6.0\Exemple08.genruntimeconfig.cache
+C:\Users\User\Documents\GeekBrains\Git\C#\Exemple08\obj\Debug\net6.0\ref\Exemple08.dll
