@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GeekBrains\Git\C#\Example12\bin\Debug\net6.0\Example12.exe
+C:\Users\User\Documents\GeekBrains\Git\C#\Example12\bin\Debug\net6.0\Example12.deps.json
+C:\Users\User\Documents\GeekBrains\Git\C#\Example12\bin\Debug\net6.0\Example12.runtimeconfig.json
+C:\Users\User\Documents\GeekBrains\Git\C#\Example12\bin\Debug\net6.0\Example12.dll
+C:\Users\User\Documents\GeekBrains\Git\C#\Example12\bin\Debug\net6.0\Example12.pdb
+C:\Users\User\Documents\GeekBrains\Git\C#\Example12\obj\Debug\net6.0\Example12.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GeekBrains\Git\C#\Example12\obj\Debug\net6.0\Example12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GeekBrains\Git\C#\Example12\obj\Debug\net6.0\Example12.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GeekBrains\Git\C#\Example12\obj\Debug\net6.0\Example12.AssemblyInfo.cs
+C:\Users\User\Documents\GeekBrains\Git\C#\Example12\obj\Debug\net6.0\Example12.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GeekBrains\Git\C#\Example12\obj\Debug\net6.0\Example12.dll
+C:\Users\User\Documents\GeekBrains\Git\C#\Example12\obj\Debug\net6.0\refint\Example12.dll
+C:\Users\User\Documents\GeekBrains\Git\C#\Example12\obj\Debug\net6.0\Example12.pdb
+C:\Users\User\Documents\GeekBrains\Git\C#\Example12\obj\Debug\net6.0\Example12.genruntimeconfig.cache
+C:\Users\User\Documents\GeekBrains\Git\C#\Example12\obj\Debug\net6.0\ref\Example12.dll
